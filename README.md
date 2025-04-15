@@ -15,8 +15,7 @@ I am a front-end developer, I enjoy building responsive and dynamic website usin
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)  
 
 **Frameworks & Platforms:**  
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)  ![SwiftUI](https://img.shields.io/badge/-SwiftUI-333333?style=flat&logo=swift)  
-Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)  
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)  ![SwiftUI](https://img.shields.io/badge/-SwiftUI-333333?style=flat&logo=swift)  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)  
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)  ![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=gnubash)
